@@ -6,11 +6,11 @@ A Colorado Board of Elections employee has provided the following task to comple
 1. Determine the total number of votes cast, candidates who receive votes with percentages and total number of votes each candidate won and the winner of the election based on popular vote.
 2. Determine voter turnout for each county, percentages of votes from each county out of the total count and the county with the highest turnout. 
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.10, Visual Studio Code 1.68.1
+We use Python and Visual Studio Code (or VS code) in order to read the data provided from the election results, write scripts/code to perform mathematical operations, decision statements, logical operations for complex comparisons, and repetition statements to run the code and store the analysis by producing text file outputs. 
 
 ## Election-Audit Results
+![Election_Analysis](https://user-images.githubusercontent.com/106962921/175900126-c43c045d-cfd1-4f6a-8f72-5391284fa02e.png)
+
 - How many votes were cast in this congressional election?
   - There were 369,711 votes cast in the election.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
@@ -68,4 +68,9 @@ A Colorado Board of Elections employee has provided the following task to comple
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - The winner of the election was Diana DeGette who received 73.8% of the vote and 272,892 number of votes  
 
-## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Election-Audit Summary 
+This project provided an efficient way of analysing the election results in  . Give at least two examples of how this script can be modified to be used for other elections.
+
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.10, Visual Studio Code 1.68.1
