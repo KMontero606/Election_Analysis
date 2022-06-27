@@ -69,7 +69,7 @@ We use Python and Visual Studio Code (or VS code) in order to read the data prov
   - The winner of the election was Diana DeGette who received 73.8% of the vote and 272,892 number of votes  
 
 ## Election-Audit Summary 
-This script can be used with some modification for any election. One example of how this script can be modified for other elections is expanding on the voter turnout to include historical trend to see if more/less people are voting. Another example of how this script can be modified is to include voter qualification provided that additional data is acquired through the ballots.
+This script can be used with some modification for any election. One example of how this script can be modified for other elections is expanding on the voter turnout to include historical trend to see if more/less people are voting. It would utilize the same script, however, adding an additional script to create a statistical analysis to make the comparison for past and future ballots. Another example of how this script can be modified is to include voter qualification provided that additional data is acquired through the ballots and create a script to exclude voter ballots that did not meet the legal requirement to vote.
 
 ## Resources
 - Data Source: election_results.csv
