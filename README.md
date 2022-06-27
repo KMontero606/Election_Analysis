@@ -6,7 +6,7 @@ A Colorado Board of Elections employee has provided the following task to comple
 1. Determine the total number of votes cast, candidates who receive votes with percentages and total number of votes each candidate won and the winner of the election based on popular vote.
 2. Determine voter turnout for each county, percentages of votes from each county out of the total count and the county with the highest turnout. 
 
-We use Python and Visual Studio Code (or VS code) in order to read the data provided from the election results, write scripts/code to perform mathematical operations, decision statements, logical operations for complex comparisons, and repetition statements to run the code and store the analysis by producing text file outputs. 
+We use Python and Visual Studio Code (or VS code) in order to read the data provided from the election results, write scripts/code to perform mathematical operations, decision statements, logical operations for complex comparisons, and repetition statements to perform the analysis from the election results and store the analysis by producing text file outputs. 
 
 ## Election-Audit Results
 ![Election_Analysis](https://user-images.githubusercontent.com/106962921/175900126-c43c045d-cfd1-4f6a-8f72-5391284fa02e.png)
@@ -69,7 +69,7 @@ We use Python and Visual Studio Code (or VS code) in order to read the data prov
   - The winner of the election was Diana DeGette who received 73.8% of the vote and 272,892 number of votes  
 
 ## Election-Audit Summary 
-This project provided an efficient way of analysing the election results in  . Give at least two examples of how this script can be modified to be used for other elections.
+This script can be used with some modification for any election. One example of how this script can be modified for other elections is expanding on the voter turnout to include historical trend to see if more/less people are voting. Another example of how this script can be modified is to include voter qualification provided that additional data is acquired through the ballots.
 
 ## Resources
 - Data Source: election_results.csv
